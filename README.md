@@ -1,4 +1,4 @@
 ## 👋  Hi, Im Bo Hyeong ~ 🖐🏻
 
-## MyInfo
+## 소개
 ### 이름 : 김보형
