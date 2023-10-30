@@ -28,8 +28,8 @@
   
 ---
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerong12&exclude_repo=github-readme-stats,kerong12.github.io)](https://github.com/anuraghazra/github-readme-stats)<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerong12&show_icons=true&theme=cobalt)<br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOHYEONG2&exclude_repo=github-readme-stats,BOHYEONG2.github.io)](https://github.com/anuraghazra/github-readme-stats)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BOHYEONG2&show_icons=true&theme=cobalt)<br>
   
 ---
 
